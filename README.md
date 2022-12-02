@@ -1,8 +1,10 @@
 # Online_Groceries_Store
 
-Group Members:
-Yash Kulkarni 16010121803
-Hardik Panchal  16010121805
+Front End: React.JS
+
+Back End: Mongo DB
+
+Faculty: Prof. Deepa Jain
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/104648803/205252309-c17bbc39-619f-40db-8478-41952d22232d.png)
@@ -12,4 +14,9 @@ Screenshots:
 ![image](https://user-images.githubusercontent.com/104648803/205252483-99e176cd-271a-4fbf-9855-cfe0827b48b6.png)
 ![image](https://user-images.githubusercontent.com/104648803/205252513-9d167c70-324f-4251-b1ef-4544ae069e2e.png)
 
+Tech Stack
+Reactjs Nodejs Expressjs MongoDB
 
+Authors:
+16010121803 - Yash Kulkarni
+16010121805 - Hardik Panchal
