@@ -15,12 +15,12 @@ Screenshots:
 Tech Stack:
 Reactjs Nodejs Expressjs MongoDB
 
-Authors:
-1. 16010121803 - Yash Kulkarni
-2. 16010121805 - Hardik Panchal
-
 Future Scope:
 1. Review/Rating system for the store  
 2. Sending an email to the customers about order confirmation and delivery
 
+Authors:
+1. 16010121803 - Yash Kulkarni
+2. 16010121805 - Hardik Panchal
+ 
 Faculty: Prof. Deepa Jain
