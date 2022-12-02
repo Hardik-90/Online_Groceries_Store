@@ -18,5 +18,5 @@ Tech Stack
 Reactjs Nodejs Expressjs MongoDB
 
 Authors:
-16010121803 - Yash Kulkarni
-16010121805 - Hardik Panchal
+1. 16010121803 - Yash Kulkarni
+2. 16010121805 - Hardik Panchal
